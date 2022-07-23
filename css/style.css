@@ -175,6 +175,13 @@ header i:hover {
         padding: 5px 0 10px 0;
         font-size: small;
     }
+     nav::before{
+        opacity:0.9;
+    }
+    .navbar-nav a{
+        color:black;
+        font-weight: 700;
+    }
 }
 
 /*         menu and shopitems         */
